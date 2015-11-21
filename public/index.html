@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html ng-app="hyperDrive">
+<head>
+	<title>Landing page</title>
+	<link rel="stylesheet" type="text/css" href="stylesheets/style.css">
+
+	<base href="/"> <!-- HTML 5 mode -->
+	
+	<!-- ANGULAR LIBS -->
+	<script type="text/javascript" src="components/angular/angular.min.js"></script>
+	<script type="text/javascript" src="components/angular-route/angular-route.min.js"></script>
+
+	<!-- APP FILES -->
+	<script type="text/javascript" src="app/home/controller.js"></script>
+	<script type="text/javascript" src="app/plans/controller.js"></script>
+	<script type="text/javascript" src="app/app.js"></script>
+</head>
+<body>
+	<h1>Landing page!</h1>
+	<p>
+		<a href="/">Home</a>
+		<a href="plans">Plans</a>
+	</p>
+	<div ng-view></div>
+	<script src="//localhost:35729/livereload.js"></script>
+</body>
+</html>

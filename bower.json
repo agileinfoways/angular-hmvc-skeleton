@@ -1,0 +1,17 @@
+{
+  "name": "Hyperdrive",
+  "description": "own cloud",
+  "main": "",
+  "authors": [
+    "Jay Shah <jay.shah@agileinfoways.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.4.8",
+    "angular-route": "~1.4.8",
+    "jquery": "~2.1.4"
+  }
+}

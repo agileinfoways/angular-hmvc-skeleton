@@ -1,5 +1,9 @@
-npm install
-bower install
-grunt
+###Run commands in following order.
 
-And it will open browser automatically.
+`npm install`
+
+`bower install`
+
+`grunt`
+
+And it will open browser automatically. Also I have included livereload.

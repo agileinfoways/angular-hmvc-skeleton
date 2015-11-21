@@ -5,7 +5,13 @@
 - Bower globally `npm install bower -g`
 
 
-###Run commands in following order.
+###Usage instructions.
+
+Insturctions For beginners:
+
+- Clone repo
+- Go inside folder
+- Run commands in following order
 
 `npm install`
 

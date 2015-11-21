@@ -1,8 +1,8 @@
 ###Requirements
 
 - Nodejs.
-- Grunt Cli gloabally
-- Bower globally
+- Grunt Cli gloabally `npm install grunt-cli -g`
+- Bower globally `npm install bower -g`
 
 
 ###Run commands in following order.

@@ -1,3 +1,10 @@
+###Requirements
+
+- Nodejs.
+- Grunt Cli gloabally
+- Bower globally
+
+
 ###Run commands in following order.
 
 `npm install`

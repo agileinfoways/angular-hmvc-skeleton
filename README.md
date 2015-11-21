@@ -1,3 +1,5 @@
+##Angular HMVC architecture skeleton to quickly get started with large applications. Grunt Auto Reload included.
+
 ###Requirements
 
 - Nodejs.

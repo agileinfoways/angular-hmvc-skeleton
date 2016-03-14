@@ -1,5 +1,5 @@
-angular.module('hyperDrive.plans', []);
+angular.module('agileApp.plans', []);
 
-angular.module('hyperDrive.plans').controller('plansCtrl', ['$scope', function ($scope) {
+angular.module('agileApp.plans').controller('plansCtrl', ['$scope', function ($scope) {
 	
 }]);

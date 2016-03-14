@@ -1,5 +1,5 @@
-angular.module('hyperDrive.home', []);
+angular.module('agileApp.home', []);
 
-angular.module('hyperDrive.home').controller('homeCtrl', ['$scope', function ($scope) {
+angular.module('agileApp.home').controller('homeCtrl', ['$scope', function ($scope) {
 	
 }]);

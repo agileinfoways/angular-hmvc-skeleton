@@ -1,4 +1,4 @@
-var App = angular.module(agileApp", [
+var App = angular.module("agileApp", [
 	'ngRoute',
 	'agileApp.home',
 	'agileApp.plans'

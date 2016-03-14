@@ -1,7 +1,7 @@
-var App = angular.module("hyperDrive", [
+var App = angular.module(agileApp", [
 	'ngRoute',
-	'hyperDrive.home',
-	'hyperDrive.plans'
+	'agileApp.home',
+	'agileApp.plans'
 ]);
 
 App.config(['$routeProvider', '$locationProvider', function ($routeProvider, $locationProvider) {

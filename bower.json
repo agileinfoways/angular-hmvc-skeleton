@@ -1,9 +1,9 @@
 {
-  "name": "Hyperdrive",
-  "description": "own cloud",
+  "name": "AgileDemo",
+  "description": "for demo only,
   "main": "",
   "authors": [
-    "Jay Shah <jay.shah@agileinfoways.com>"
+    "Agile Infoways <demo@agileinfoways.com>"
   ],
   "license": "MIT",
   "moduleType": [],
